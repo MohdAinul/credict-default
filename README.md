@@ -4,6 +4,10 @@ A simple machine learning project that predicts whether a customer is likely to 
 
 ---
 
+## 📸 Project Preview
+
+![App Screenshot](assets/img2.png)
+
 ## 🚀 Overview
 
 This project uses a Logistic Regression model to classify whether a person will default (1) or not (0).
